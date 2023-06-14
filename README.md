@@ -17,4 +17,4 @@ Projeto construído para ter mais informações para contato via Instagram da Ki
 
 ## Feito com amor 💛 Lifeweb.
 
-alexsandro.pereira@gmail.com
+alexsandro.pereira@gmail.com# kitefriendsluxpousada
